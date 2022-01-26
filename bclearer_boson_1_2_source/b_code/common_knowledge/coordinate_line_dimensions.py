@@ -4,10 +4,7 @@ from enum import unique
 
 
 @unique
-class CoordinateLineDimensions(
-        Enum):
-    EASTINGS = \
-        auto()
+class CoordinateLineDimensions(Enum):
+    EASTINGS = auto()
 
-    NORTHINGS = \
-        auto()
+    NORTHINGS = auto()
