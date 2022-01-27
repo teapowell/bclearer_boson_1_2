@@ -16425,5 +16425,5 @@ Messages
 
 
 --------------------------------------------------------------------
-Your code has been rated at -7.95/10 (previous run: -6.75/10, -1.20)
+Your code has been rated at -7.95/10
 
